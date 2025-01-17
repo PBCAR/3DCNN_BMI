@@ -15,4 +15,5 @@ In addition, the Results folder contains the saved, fitted 3D-CNN parameters for
 References
 Abrol, A., Fu, Z., Salman, M., Silva, R., Du, Y., Plis, S., & Calhoun, V. (2021). Deep learning encodes robust discriminative neuroimaging representations to outperform standard machine learning. Nature communications, 12(1), 353.
 
+The Tabnet model code and results can be found in the DL/Tabnet folder while the machine learning (random forest, elastic net) model code and results are found in the ML_BMI/RF and ML_BMI/EN folders.
 
